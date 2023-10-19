@@ -4,3 +4,5 @@ test
 hoge
 test
 ここまで
+
+add2
